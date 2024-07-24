@@ -1,0 +1,2002 @@
+{
+    "grookey": [
+        1,
+        1,
+        1
+    ],
+    "thwackey": [
+        1,
+        1,
+        2
+    ],
+    "rillaboom": [
+        1,
+        1,
+        3
+    ],
+    "scorbunny": [
+        1,
+        1,
+        4
+    ],
+    "raboot": [
+        1,
+        1,
+        5
+    ],
+    "cinderace": [
+        1,
+        1,
+        6
+    ],
+    "sobble": [
+        1,
+        2,
+        1
+    ],
+    "drizzile": [
+        1,
+        2,
+        2
+    ],
+    "inteleon": [
+        1,
+        2,
+        3
+    ],
+    "blipbug": [
+        1,
+        2,
+        4
+    ],
+    "dottler": [
+        1,
+        2,
+        5
+    ],
+    "orbeetle": [
+        1,
+        2,
+        6
+    ],
+    "caterpie": [
+        1,
+        3,
+        1
+    ],
+    "metapod": [
+        1,
+        3,
+        2
+    ],
+    "butterfree": [
+        1,
+        3,
+        3
+    ],
+    "grubbin": [
+        1,
+        3,
+        4
+    ],
+    "charjabug": [
+        1,
+        3,
+        5
+    ],
+    "vikavolt": [
+        1,
+        3,
+        6
+    ],
+    "hoothoot": [
+        1,
+        4,
+        1
+    ],
+    "noctowl": [
+        1,
+        4,
+        2
+    ],
+    "rookidee": [
+        1,
+        4,
+        3
+    ],
+    "corvisquire": [
+        1,
+        4,
+        4
+    ],
+    "corviknight": [
+        1,
+        4,
+        5
+    ],
+    "skwovet": [
+        1,
+        4,
+        6
+    ],
+    "greedent": [
+        1,
+        5,
+        1
+    ],
+    "pidove": [
+        1,
+        5,
+        2
+    ],
+    "tranquill": [
+        1,
+        5,
+        3
+    ],
+    "unfezant": [
+        1,
+        5,
+        4
+    ],
+    "nickit": [
+        1,
+        5,
+        5
+    ],
+    "thievul": [
+        1,
+        5,
+        6
+    ],
+    "zigzagoon": [
+        2,
+        1,
+        1
+    ],
+    "linoone": [
+        2,
+        1,
+        2
+    ],
+    "obstagoon": [
+        2,
+        1,
+        3
+    ],
+    "wooloo": [
+        2,
+        1,
+        4
+    ],
+    "dubwool": [
+        2,
+        1,
+        5
+    ],
+    "lotad": [
+        2,
+        1,
+        6
+    ],
+    "lombre": [
+        2,
+        2,
+        1
+    ],
+    "ludicolo": [
+        2,
+        2,
+        2
+    ],
+    "seedot": [
+        2,
+        2,
+        3
+    ],
+    "nuzleaf": [
+        2,
+        2,
+        4
+    ],
+    "shiftry": [
+        2,
+        2,
+        5
+    ],
+    "chewtle": [
+        2,
+        2,
+        6
+    ],
+    "drednaw": [
+        2,
+        3,
+        1
+    ],
+    "purrloin": [
+        2,
+        3,
+        2
+    ],
+    "liepard": [
+        2,
+        3,
+        3
+    ],
+    "yamper": [
+        2,
+        3,
+        4
+    ],
+    "boltund": [
+        2,
+        3,
+        5
+    ],
+    "bunnelby": [
+        2,
+        3,
+        6
+    ],
+    "diggersby": [
+        2,
+        4,
+        1
+    ],
+    "minccino": [
+        2,
+        4,
+        2
+    ],
+    "cinccino": [
+        2,
+        4,
+        3
+    ],
+    "bounsweet": [
+        2,
+        4,
+        4
+    ],
+    "steenee": [
+        2,
+        4,
+        5
+    ],
+    "tsareena": [
+        2,
+        4,
+        6
+    ],
+    "oddish": [
+        2,
+        5,
+        1
+    ],
+    "gloom": [
+        2,
+        5,
+        2
+    ],
+    "vileplume": [
+        2,
+        5,
+        3
+    ],
+    "bellossom": [
+        2,
+        5,
+        4
+    ],
+    "budew": [
+        2,
+        5,
+        5
+    ],
+    "roselia": [
+        2,
+        5,
+        6
+    ],
+    "roserade": [
+        3,
+        1,
+        1
+    ],
+    "wingull": [
+        3,
+        1,
+        2
+    ],
+    "pelipper": [
+        3,
+        1,
+        3
+    ],
+    "joltik": [
+        3,
+        1,
+        4
+    ],
+    "galvantula": [
+        3,
+        1,
+        5
+    ],
+    "electrike": [
+        3,
+        1,
+        6
+    ],
+    "manectric": [
+        3,
+        2,
+        1
+    ],
+    "vulpix": [
+        3,
+        2,
+        2
+    ],
+    "ninetales": [
+        3,
+        2,
+        3
+    ],
+    "growlithe": [
+        3,
+        2,
+        4
+    ],
+    "arcanine": [
+        3,
+        2,
+        5
+    ],
+    "vanillite": [
+        3,
+        2,
+        6
+    ],
+    "vanillish": [
+        3,
+        3,
+        1
+    ],
+    "vanilluxe": [
+        3,
+        3,
+        2
+    ],
+    "swinub": [
+        3,
+        3,
+        3
+    ],
+    "piloswine": [
+        3,
+        3,
+        4
+    ],
+    "mamoswine": [
+        3,
+        3,
+        5
+    ],
+    "delibird": [
+        3,
+        3,
+        6
+    ],
+    "snorunt": [
+        3,
+        4,
+        1
+    ],
+    "glalie": [
+        3,
+        4,
+        2
+    ],
+    "froslass": [
+        3,
+        4,
+        3
+    ],
+    "baltoy": [
+        3,
+        4,
+        4
+    ],
+    "claydol": [
+        3,
+        4,
+        5
+    ],
+    "mudbray": [
+        3,
+        4,
+        6
+    ],
+    "mudsdale": [
+        3,
+        5,
+        1
+    ],
+    "dwebble": [
+        3,
+        5,
+        2
+    ],
+    "crustle": [
+        3,
+        5,
+        3
+    ],
+    "golett": [
+        3,
+        5,
+        4
+    ],
+    "golurk": [
+        3,
+        5,
+        5
+    ],
+    "munna": [
+        3,
+        5,
+        6
+    ],
+    "musharna": [
+        4,
+        1,
+        1
+    ],
+    "natu": [
+        4,
+        1,
+        2
+    ],
+    "xatu": [
+        4,
+        1,
+        3
+    ],
+    "stufful": [
+        4,
+        1,
+        4
+    ],
+    "bewear": [
+        4,
+        1,
+        5
+    ],
+    "snover": [
+        4,
+        1,
+        6
+    ],
+    "abomasnow": [
+        4,
+        2,
+        1
+    ],
+    "krabby": [
+        4,
+        2,
+        2
+    ],
+    "kingler": [
+        4,
+        2,
+        3
+    ],
+    "wooper": [
+        4,
+        2,
+        4
+    ],
+    "quagsire": [
+        4,
+        2,
+        5
+    ],
+    "corphish": [
+        4,
+        2,
+        6
+    ],
+    "crawdaunt": [
+        4,
+        3,
+        1
+    ],
+    "nincada": [
+        4,
+        3,
+        2
+    ],
+    "ninjask": [
+        4,
+        3,
+        3
+    ],
+    "shedinja": [
+        4,
+        3,
+        4
+    ],
+    "tyrogue": [
+        4,
+        3,
+        5
+    ],
+    "hitmonlee": [
+        4,
+        3,
+        6
+    ],
+    "hitmonchan": [
+        4,
+        4,
+        1
+    ],
+    "hitmontop": [
+        4,
+        4,
+        2
+    ],
+    "pancham": [
+        4,
+        4,
+        3
+    ],
+    "pangoro": [
+        4,
+        4,
+        4
+    ],
+    "klink": [
+        4,
+        4,
+        5
+    ],
+    "klang": [
+        4,
+        4,
+        6
+    ],
+    "klinklang": [
+        4,
+        5,
+        1
+    ],
+    "combee": [
+        4,
+        5,
+        2
+    ],
+    "vespiquen": [
+        4,
+        5,
+        3
+    ],
+    "bronzor": [
+        4,
+        5,
+        4
+    ],
+    "bronzong": [
+        4,
+        5,
+        5
+    ],
+    "ralts": [
+        4,
+        5,
+        6
+    ],
+    "kirlia": [
+        5,
+        1,
+        1
+    ],
+    "gardevoir": [
+        5,
+        1,
+        2
+    ],
+    "gallade": [
+        5,
+        1,
+        3
+    ],
+    "drifloon": [
+        5,
+        1,
+        4
+    ],
+    "drifblim": [
+        5,
+        1,
+        5
+    ],
+    "gossifleur": [
+        5,
+        1,
+        6
+    ],
+    "eldegoss": [
+        5,
+        2,
+        1
+    ],
+    "cherubi": [
+        5,
+        2,
+        2
+    ],
+    "cherrim": [
+        5,
+        2,
+        3
+    ],
+    "stunky": [
+        5,
+        2,
+        4
+    ],
+    "skuntank": [
+        5,
+        2,
+        5
+    ],
+    "tympole": [
+        5,
+        2,
+        6
+    ],
+    "palpitoad": [
+        5,
+        3,
+        1
+    ],
+    "seismitoad": [
+        5,
+        3,
+        2
+    ],
+    "duskull": [
+        5,
+        3,
+        3
+    ],
+    "dusclops": [
+        5,
+        3,
+        4
+    ],
+    "dusknoir": [
+        5,
+        3,
+        5
+    ],
+    "machop": [
+        5,
+        3,
+        6
+    ],
+    "machoke": [
+        5,
+        4,
+        1
+    ],
+    "machamp": [
+        5,
+        4,
+        2
+    ],
+    "gastly": [
+        5,
+        4,
+        3
+    ],
+    "haunter": [
+        5,
+        4,
+        4
+    ],
+    "gengar": [
+        5,
+        4,
+        5
+    ],
+    "magikarp": [
+        5,
+        4,
+        6
+    ],
+    "gyarados": [
+        5,
+        5,
+        1
+    ],
+    "goldeen": [
+        5,
+        5,
+        2
+    ],
+    "seaking": [
+        5,
+        5,
+        3
+    ],
+    "remoraid": [
+        5,
+        5,
+        4
+    ],
+    "octillery": [
+        5,
+        5,
+        5
+    ],
+    "shellder": [
+        5,
+        5,
+        6
+    ],
+    "cloyster": [
+        6,
+        1,
+        1
+    ],
+    "feebas": [
+        6,
+        1,
+        2
+    ],
+    "milotic": [
+        6,
+        1,
+        3
+    ],
+    "basculin": [
+        6,
+        1,
+        4
+    ],
+    "wishiwashi": [
+        6,
+        1,
+        5
+    ],
+    "pyukumuku": [
+        6,
+        1,
+        6
+    ],
+    "trubbish": [
+        6,
+        2,
+        1
+    ],
+    "garbodor": [
+        6,
+        2,
+        2
+    ],
+    "sizzlipede": [
+        6,
+        2,
+        3
+    ],
+    "centiskorch": [
+        6,
+        2,
+        4
+    ],
+    "rolycoly": [
+        6,
+        2,
+        5
+    ],
+    "carkol": [
+        6,
+        2,
+        6
+    ],
+    "coalossal": [
+        6,
+        3,
+        1
+    ],
+    "diglett": [
+        6,
+        3,
+        2
+    ],
+    "dugtrio": [
+        6,
+        3,
+        3
+    ],
+    "drilbur": [
+        6,
+        3,
+        4
+    ],
+    "excadrill": [
+        6,
+        3,
+        5
+    ],
+    "roggenrola": [
+        6,
+        3,
+        6
+    ],
+    "boldore": [
+        6,
+        4,
+        1
+    ],
+    "gigalith": [
+        6,
+        4,
+        2
+    ],
+    "timburr": [
+        6,
+        4,
+        3
+    ],
+    "gurdurr": [
+        6,
+        4,
+        4
+    ],
+    "conkeldurr": [
+        6,
+        4,
+        5
+    ],
+    "woobat": [
+        6,
+        4,
+        6
+    ],
+    "swoobat": [
+        6,
+        5,
+        1
+    ],
+    "noibat": [
+        6,
+        5,
+        2
+    ],
+    "noivern": [
+        6,
+        5,
+        3
+    ],
+    "onix": [
+        6,
+        5,
+        4
+    ],
+    "steelix": [
+        6,
+        5,
+        5
+    ],
+    "arrokuda": [
+        6,
+        5,
+        6
+    ],
+    "barraskewda": [
+        7,
+        1,
+        1
+    ],
+    "meowth": [
+        7,
+        1,
+        2
+    ],
+    "perrserker": [
+        7,
+        1,
+        3
+    ],
+    "persian": [
+        7,
+        1,
+        4
+    ],
+    "milcery": [
+        7,
+        1,
+        5
+    ],
+    "alcremie": [
+        7,
+        1,
+        6
+    ],
+    "cutiefly": [
+        7,
+        2,
+        1
+    ],
+    "ribombee": [
+        7,
+        2,
+        2
+    ],
+    "ferroseed": [
+        7,
+        2,
+        3
+    ],
+    "ferrothorn": [
+        7,
+        2,
+        4
+    ],
+    "pumpkaboo": [
+        7,
+        2,
+        5
+    ],
+    "gourgeist": [
+        7,
+        2,
+        6
+    ],
+    "pichu": [
+        7,
+        3,
+        1
+    ],
+    "pikachu": [
+        7,
+        3,
+        2
+    ],
+    "raichu": [
+        7,
+        3,
+        3
+    ],
+    "eevee": [
+        7,
+        3,
+        4
+    ],
+    "vaporeon": [
+        7,
+        3,
+        5
+    ],
+    "jolteon": [
+        7,
+        3,
+        6
+    ],
+    "flareon": [
+        7,
+        4,
+        1
+    ],
+    "espeon": [
+        7,
+        4,
+        2
+    ],
+    "umbreon": [
+        7,
+        4,
+        3
+    ],
+    "leafeon": [
+        7,
+        4,
+        4
+    ],
+    "glaceon": [
+        7,
+        4,
+        5
+    ],
+    "sylveon": [
+        7,
+        4,
+        6
+    ],
+    "applin": [
+        7,
+        5,
+        1
+    ],
+    "flapple": [
+        7,
+        5,
+        2
+    ],
+    "appletun": [
+        7,
+        5,
+        3
+    ],
+    "espurr": [
+        7,
+        5,
+        4
+    ],
+    "meowstic": [
+        7,
+        5,
+        5
+    ],
+    "swirlix": [
+        7,
+        5,
+        6
+    ],
+    "slurpuff": [
+        8,
+        1,
+        1
+    ],
+    "spritzee": [
+        8,
+        1,
+        2
+    ],
+    "aromatisse": [
+        8,
+        1,
+        3
+    ],
+    "dewpider": [
+        8,
+        1,
+        4
+    ],
+    "araquanid": [
+        8,
+        1,
+        5
+    ],
+    "wynaut": [
+        8,
+        1,
+        6
+    ],
+    "wobbuffet": [
+        8,
+        2,
+        1
+    ],
+    "farfetchd": [
+        8,
+        2,
+        2
+    ],
+    "sirfetchd": [
+        8,
+        2,
+        3
+    ],
+    "chinchou": [
+        8,
+        2,
+        4
+    ],
+    "lanturn": [
+        8,
+        2,
+        5
+    ],
+    "croagunk": [
+        8,
+        2,
+        6
+    ],
+    "toxicroak": [
+        8,
+        3,
+        1
+    ],
+    "scraggy": [
+        8,
+        3,
+        2
+    ],
+    "scrafty": [
+        8,
+        3,
+        3
+    ],
+    "stunfisk": [
+        8,
+        3,
+        4
+    ],
+    "shuckle": [
+        8,
+        3,
+        5
+    ],
+    "barboach": [
+        8,
+        3,
+        6
+    ],
+    "whiscash": [
+        8,
+        4,
+        1
+    ],
+    "shellos": [
+        8,
+        4,
+        2
+    ],
+    "gastrodon": [
+        8,
+        4,
+        3
+    ],
+    "wimpod": [
+        8,
+        4,
+        4
+    ],
+    "golisopod": [
+        8,
+        4,
+        5
+    ],
+    "binacle": [
+        8,
+        4,
+        6
+    ],
+    "barbaracle": [
+        8,
+        5,
+        1
+    ],
+    "corsola": [
+        8,
+        5,
+        2
+    ],
+    "cursola": [
+        8,
+        5,
+        3
+    ],
+    "impidimp": [
+        8,
+        5,
+        4
+    ],
+    "morgrem": [
+        8,
+        5,
+        5
+    ],
+    "grimmsnarl": [
+        8,
+        5,
+        6
+    ],
+    "hatenna": [
+        9,
+        1,
+        1
+    ],
+    "hattrem": [
+        9,
+        1,
+        2
+    ],
+    "hatterene": [
+        9,
+        1,
+        3
+    ],
+    "salandit": [
+        9,
+        1,
+        4
+    ],
+    "salazzle": [
+        9,
+        1,
+        5
+    ],
+    "pawniard": [
+        9,
+        1,
+        6
+    ],
+    "bisharp": [
+        9,
+        2,
+        1
+    ],
+    "throh": [
+        9,
+        2,
+        2
+    ],
+    "sawk": [
+        9,
+        2,
+        3
+    ],
+    "koffing": [
+        9,
+        2,
+        4
+    ],
+    "weezing": [
+        9,
+        2,
+        5
+    ],
+    "bonsly": [
+        9,
+        2,
+        6
+    ],
+    "sudowoodo": [
+        9,
+        3,
+        1
+    ],
+    "cleffa": [
+        9,
+        3,
+        2
+    ],
+    "clefairy": [
+        9,
+        3,
+        3
+    ],
+    "clefable": [
+        9,
+        3,
+        4
+    ],
+    "togepi": [
+        9,
+        3,
+        5
+    ],
+    "togetic": [
+        9,
+        3,
+        6
+    ],
+    "togekiss": [
+        9,
+        4,
+        1
+    ],
+    "munchlax": [
+        9,
+        4,
+        2
+    ],
+    "snorlax": [
+        9,
+        4,
+        3
+    ],
+    "cottonee": [
+        9,
+        4,
+        4
+    ],
+    "whimsicott": [
+        9,
+        4,
+        5
+    ],
+    "rhyhorn": [
+        9,
+        4,
+        6
+    ],
+    "rhydon": [
+        9,
+        5,
+        1
+    ],
+    "rhyperior": [
+        9,
+        5,
+        2
+    ],
+    "gothita": [
+        9,
+        5,
+        3
+    ],
+    "gothorita": [
+        9,
+        5,
+        4
+    ],
+    "gothitelle": [
+        9,
+        5,
+        5
+    ],
+    "solosis": [
+        9,
+        5,
+        6
+    ],
+    "duosion": [
+        10,
+        1,
+        1
+    ],
+    "reuniclus": [
+        10,
+        1,
+        2
+    ],
+    "karrablast": [
+        10,
+        1,
+        3
+    ],
+    "escavalier": [
+        10,
+        1,
+        4
+    ],
+    "shelmet": [
+        10,
+        1,
+        5
+    ],
+    "accelgor": [
+        10,
+        1,
+        6
+    ],
+    "elgyem": [
+        10,
+        2,
+        1
+    ],
+    "beheeyem": [
+        10,
+        2,
+        2
+    ],
+    "cubchoo": [
+        10,
+        2,
+        3
+    ],
+    "beartic": [
+        10,
+        2,
+        4
+    ],
+    "rufflet": [
+        10,
+        2,
+        5
+    ],
+    "braviary": [
+        10,
+        2,
+        6
+    ],
+    "vullaby": [
+        10,
+        3,
+        1
+    ],
+    "mandibuzz": [
+        10,
+        3,
+        2
+    ],
+    "skorupi": [
+        10,
+        3,
+        3
+    ],
+    "drapion": [
+        10,
+        3,
+        4
+    ],
+    "litwick": [
+        10,
+        3,
+        5
+    ],
+    "lampent": [
+        10,
+        3,
+        6
+    ],
+    "chandelure": [
+        10,
+        4,
+        1
+    ],
+    "inkay": [
+        10,
+        4,
+        2
+    ],
+    "malamar": [
+        10,
+        4,
+        3
+    ],
+    "sneasel": [
+        10,
+        4,
+        4
+    ],
+    "weavile": [
+        10,
+        4,
+        5
+    ],
+    "sableye": [
+        10,
+        4,
+        6
+    ],
+    "mawile": [
+        10,
+        5,
+        1
+    ],
+    "maractus": [
+        10,
+        5,
+        2
+    ],
+    "sigilyph": [
+        10,
+        5,
+        3
+    ],
+    "riolu": [
+        10,
+        5,
+        4
+    ],
+    "lucario": [
+        10,
+        5,
+        5
+    ],
+    "torkoal": [
+        10,
+        5,
+        6
+    ],
+    "mimikyu": [
+        11,
+        1,
+        1
+    ],
+    "cufant": [
+        11,
+        1,
+        2
+    ],
+    "copperajah": [
+        11,
+        1,
+        3
+    ],
+    "qwilfish": [
+        11,
+        1,
+        4
+    ],
+    "frillish": [
+        11,
+        1,
+        5
+    ],
+    "jellicent": [
+        11,
+        1,
+        6
+    ],
+    "mareanie": [
+        11,
+        2,
+        1
+    ],
+    "toxapex": [
+        11,
+        2,
+        2
+    ],
+    "cramorant": [
+        11,
+        2,
+        3
+    ],
+    "toxel": [
+        11,
+        2,
+        4
+    ],
+    "toxtricity": [
+        11,
+        2,
+        5
+    ],
+    "silicobra": [
+        11,
+        2,
+        6
+    ],
+    "sandaconda": [
+        11,
+        3,
+        1
+    ],
+    "hippopotas": [
+        11,
+        3,
+        2
+    ],
+    "hippowdon": [
+        11,
+        3,
+        3
+    ],
+    "durant": [
+        11,
+        3,
+        4
+    ],
+    "heatmor": [
+        11,
+        3,
+        5
+    ],
+    "helioptile": [
+        11,
+        3,
+        6
+    ],
+    "heliolisk": [
+        11,
+        4,
+        1
+    ],
+    "hawlucha": [
+        11,
+        4,
+        2
+    ],
+    "trapinch": [
+        11,
+        4,
+        3
+    ],
+    "vibrava": [
+        11,
+        4,
+        4
+    ],
+    "flygon": [
+        11,
+        4,
+        5
+    ],
+    "axew": [
+        11,
+        4,
+        6
+    ],
+    "fraxure": [
+        11,
+        5,
+        1
+    ],
+    "haxorus": [
+        11,
+        5,
+        2
+    ],
+    "yamask": [
+        11,
+        5,
+        3
+    ],
+    "runerigus": [
+        11,
+        5,
+        4
+    ],
+    "cofagrigus": [
+        11,
+        5,
+        5
+    ],
+    "honedge": [
+        11,
+        5,
+        6
+    ],
+    "doublade": [
+        12,
+        1,
+        1
+    ],
+    "aegislash": [
+        12,
+        1,
+        2
+    ],
+    "ponyta": [
+        12,
+        1,
+        3
+    ],
+    "rapidash": [
+        12,
+        1,
+        4
+    ],
+    "sinistea": [
+        12,
+        1,
+        5
+    ],
+    "polteageist": [
+        12,
+        1,
+        6
+    ],
+    "indeedee": [
+        12,
+        2,
+        1
+    ],
+    "phantump": [
+        12,
+        2,
+        2
+    ],
+    "trevenant": [
+        12,
+        2,
+        3
+    ],
+    "morelull": [
+        12,
+        2,
+        4
+    ],
+    "shiinotic": [
+        12,
+        2,
+        5
+    ],
+    "oranguru": [
+        12,
+        2,
+        6
+    ],
+    "passimian": [
+        12,
+        3,
+        1
+    ],
+    "morpeko": [
+        12,
+        3,
+        2
+    ],
+    "falinks": [
+        12,
+        3,
+        3
+    ],
+    "drampa": [
+        12,
+        3,
+        4
+    ],
+    "turtonator": [
+        12,
+        3,
+        5
+    ],
+    "togedemaru": [
+        12,
+        3,
+        6
+    ],
+    "snom": [
+        12,
+        4,
+        1
+    ],
+    "frosmoth": [
+        12,
+        4,
+        2
+    ],
+    "clobbopus": [
+        12,
+        4,
+        3
+    ],
+    "grapploct": [
+        12,
+        4,
+        4
+    ],
+    "pincurchin": [
+        12,
+        4,
+        5
+    ],
+    "mantyke": [
+        12,
+        4,
+        6
+    ],
+    "mantine": [
+        12,
+        5,
+        1
+    ],
+    "wailmer": [
+        12,
+        5,
+        2
+    ],
+    "wailord": [
+        12,
+        5,
+        3
+    ],
+    "bergmite": [
+        12,
+        5,
+        4
+    ],
+    "avalugg": [
+        12,
+        5,
+        5
+    ],
+    "dhelmise": [
+        12,
+        5,
+        6
+    ],
+    "lapras": [
+        13,
+        1,
+        1
+    ],
+    "lunatone": [
+        13,
+        1,
+        2
+    ],
+    "solrock": [
+        13,
+        1,
+        3
+    ],
+    "mimejr": [
+        13,
+        1,
+        4
+    ],
+    "mrmime": [
+        13,
+        1,
+        5
+    ],
+    "mrrime": [
+        13,
+        1,
+        6
+    ],
+    "darumaka": [
+        13,
+        2,
+        1
+    ],
+    "darmanitan": [
+        13,
+        2,
+        2
+    ],
+    "stonjourner": [
+        13,
+        2,
+        3
+    ],
+    "eiscue": [
+        13,
+        2,
+        4
+    ],
+    "duraludon": [
+        13,
+        2,
+        5
+    ],
+    "rotom": [
+        13,
+        2,
+        6
+    ],
+    "ditto": [
+        13,
+        3,
+        1
+    ],
+    "dracozolt": [
+        13,
+        3,
+        2
+    ],
+    "arctozolt": [
+        13,
+        3,
+        3
+    ],
+    "dracovish": [
+        13,
+        3,
+        4
+    ],
+    "arctovish": [
+        13,
+        3,
+        5
+    ],
+    "charmander": [
+        13,
+        3,
+        6
+    ],
+    "charmeleon": [
+        13,
+        4,
+        1
+    ],
+    "charizard": [
+        13,
+        4,
+        2
+    ],
+    "typenull": [
+        13,
+        4,
+        3
+    ],
+    "silvally": [
+        13,
+        4,
+        4
+    ],
+    "larvitar": [
+        13,
+        4,
+        5
+    ],
+    "pupitar": [
+        13,
+        4,
+        6
+    ],
+    "tyranitar": [
+        13,
+        5,
+        1
+    ],
+    "deino": [
+        13,
+        5,
+        2
+    ],
+    "zweilous": [
+        13,
+        5,
+        3
+    ],
+    "hydreigon": [
+        13,
+        5,
+        4
+    ],
+    "goomy": [
+        13,
+        5,
+        5
+    ],
+    "sliggoo": [
+        13,
+        5,
+        6
+    ],
+    "goodra": [
+        14,
+        1,
+        1
+    ],
+    "jangmoo": [
+        14,
+        1,
+        2
+    ],
+    "hakamoo": [
+        14,
+        1,
+        3
+    ],
+    "kommoo": [
+        14,
+        1,
+        4
+    ],
+    "dreepy": [
+        14,
+        1,
+        5
+    ],
+    "drakloak": [
+        14,
+        1,
+        6
+    ],
+    "dragapult": [
+        14,
+        2,
+        1
+    ],
+    "zacian": [
+        14,
+        2,
+        2
+    ],
+    "zamazenta": [
+        14,
+        2,
+        3
+    ],
+    "eternatus": [
+        14,
+        2,
+        4
+    ]
+}
